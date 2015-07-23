@@ -8,4 +8,3 @@ while True:
     for face in faces:
         face.draw((0,255,0))
     img.show()
-    img.save("FaceDetected.jpg")
